@@ -48,11 +48,9 @@ function ContactForm() {
                     <label htmlFor="message">Message:</label>
                     <textarea name="message" defaultValue={message} onBlur={handleChange} rows="5" />
                 </div>
-                if(errorMessage) {
                     <div>
                         <p className="error-text">{errorMessage}</p>
                     </div>
-                }
                 <button data-testid="testSubmit" type="submit">Submit</button>
             </form>
         </section>
