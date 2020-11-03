@@ -1,3 +1,11 @@
+## Description
+A sample portfolio website to house an artists images separated by categories.
+
+## Installation
+Clone the repository. Run 'npm i' to install all dependencies.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
