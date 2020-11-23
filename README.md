@@ -4,7 +4,7 @@ A sample portfolio website to house an artists images separated by categories.
 ## Installation
 Clone the repository. Run 'npm i' to install all dependencies.
 
-
+![photoport](https://user-images.githubusercontent.com/62676730/100019826-94833000-2d93-11eb-8e90-6ac3630cb1a5.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
